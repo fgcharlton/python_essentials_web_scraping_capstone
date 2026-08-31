@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+import sqlite3 
 import pandas as pd
 import json 
 
@@ -160,3 +161,10 @@ df1.info()
 
 print("--------------Original DataFrame Shape--------------")
 print(df.shape)
+
+# Create SQLite Database
+try:
+    with sqlite3.connect("weather_database.db") as conn:
+        df1.to_sql(name="weather", con=conn, if_exists="replace", index=False);
+except Exception as e:
+    print(f"Exception caught: {e}")
