@@ -1,138 +1,318 @@
-City Name,City Time,City Weather,City Temperature
-Accra,Mon 12:02 pm,Partly sunny. Warm.,84 °F
-Frankfurt,Mon 2:02 pm,Sprinkles. Passing clouds. Mild.,70 °F
-New Delhi,Mon 5:32 pm,Partly sunny. Extremely hot.,94 °F
-Addis Ababa,Mon 3:02 pm,Partly sunny. Mild.,64 °F
-Guatemala City,Mon 6:02 am,Clear. Mild.,64 °F
-New Orleans,Mon 7:02 am,Passing clouds. Warm.,83 °F
-Adelaide,Mon 9:32 pm,Cool.,56 °F
-Halifax,Mon 9:02 am,Scattered clouds. Cool.,59 °F
-New York,Mon 8:02 am,Overcast. Mild.,70 °F
-Algiers,Mon 1:02 pm,Partly sunny. Warm.,84 °F
-Hanoi,Mon 7:02 pm,Clear. Hot.,90 °F
-Oslo,Mon 2:02 pm,Scattered clouds. Mild.,66 °F
-Almaty,Mon 5:02 pm,Mostly cloudy. Pleasantly warm.,81 °F
-Harare,Mon 2:02 pm,Haze. Mild.,75 °F
-Ottawa,Mon 8:02 am,Fog. Cool.,57 °F
-Amman,Mon 3:02 pm,Partly sunny. Warm.,84 °F
-Havana,Mon 8:02 am,Passing clouds. Warm.,77 °F
-Paris,Mon 2:02 pm,Partly sunny. Mild.,70 °F
-Amsterdam,Mon 2:02 pm,Passing clouds. Mild.,66 °F
-Helsinki,Mon 3:02 pm,Partly sunny. Mild.,66 °F
-Perth,Mon 8:02 pm,Sprinkles. Partly cloudy. Mild.,64 °F
-Anadyr,Tue 12:02 am,Partly sunny. Cool.,51 °F
-Hong Kong,Mon 8:02 pm,Sprinkles. Passing clouds. Warm.,81 °F
-Philadelphia,Mon 8:02 am,Mostly cloudy. Mild.,73 °F
-Anchorage,Mon 4:02 am,Clear. Cool.,51 °F
-Honolulu,Mon 2:02 am,Partly cloudy. Warm.,79 °F
-Phoenix,Mon 5:02 am,Partly cloudy. Warm.,83 °F
-Ankara,Mon 3:02 pm,Scattered clouds. Pleasantly warm.,81 °F
-Houston,Mon 7:02 am,Passing clouds. Warm.,79 °F
-Prague,Mon 2:02 pm,Partly sunny. Mild.,70 °F
-Antananarivo,Mon 3:02 pm,Scattered clouds. Mild.,68 °F
-Indianapolis,Mon 8:02 am,Passing clouds. Mild.,74 °F
-Reykjavik,Mon 12:02 pm,Scattered clouds. Refreshingly cool.,55 °F
-Asuncion,Mon 9:02 am,Thunderstorms. Mostly cloudy. Mild.,68 °F
-Islamabad,Mon 5:02 pm,Partly sunny. Hot.,91 °F
-Rio de Janeiro,Mon 9:02 am,Broken clouds. Mild.,75 °F
-Athens,Mon 3:02 pm,Warm.,83 °F
-Istanbul,Mon 3:02 pm,Passing clouds. Warm.,82 °F
-Riyadh,Mon 3:02 pm,Sunny. Extremely hot.,113 °F
-Atlanta,Mon 8:02 am,Clear. Mild.,70 °F
-Jakarta,Mon 7:02 pm,Passing clouds. Warm.,84 °F
-Rome,Mon 2:02 pm,Passing clouds. Warm.,88 °F
-Auckland,Tue 12:02 am,Partly cloudy. Cool.,57 °F
-Jerusalem,Mon 3:02 pm,Warm.,81 °F
-Salt Lake City,Mon 6:02 am,Passing clouds. Mild.,64 °F
-Bangkok,Mon 7:02 pm,Light rain. Partly cloudy. Warm.,82 °F
-Johannesburg,Mon 2:02 pm,Passing clouds. Refreshingly cool.,55 °F
-San Francisco,Mon 5:02 am,Passing clouds. Cool.,58 °F
-Barcelona,Mon 2:02 pm,Passing clouds. Warm.,84 °F
-Karachi,Mon 5:02 pm,Broken clouds. Warm.,84 °F
-San Juan,Mon 8:02 am,Partly cloudy. Warm.,82 °F
-Beijing,Mon 8:02 pm,Clear. Mild.,70 °F
-Kathmandu,Mon 5:47 pm,Drizzle. Broken clouds. Mild.,75 °F
-San Salvador,Mon 6:02 am,Passing clouds. Warm.,81 °F
-Belgrade,Mon 2:02 pm,Passing clouds. Extremely hot.,95 °F
-Kingston,Mon 7:02 am,Warm.,82 °F
-Santiago,Mon 8:02 am,Passing clouds. Cool.,46 °F
-Bengaluru,Mon 5:32 pm,Scattered clouds. Warm.,82 °F
-Kinshasa,Mon 1:02 pm,Partly sunny. Warm.,79 °F
-Santo Domingo,Mon 8:02 am,Passing clouds. Warm.,82 °F
-Berlin,Mon 2:02 pm,Broken clouds. Mild.,73 °F
-Kiritimati,Tue 2:02 am,Passing clouds. Warm.,81 °F
-São Paulo,Mon 9:02 am,Passing clouds. Mild.,68 °F
-Bogota,Mon 7:02 am,Scattered clouds. Cool.,54 °F
-Kolkata,Mon 5:32 pm,More clouds than sun. Warm.,82 °F
-Seattle,Mon 5:02 am,Passing clouds. Cool.,59 °F
-Boston,Mon 8:02 am,Scattered clouds. Mild.,65 °F
-Kuala Lumpur,Mon 8:02 pm,Passing clouds. Warm.,88 °F
-Seoul,Mon 9:02 pm,Light rain. Overcast. Mild.,75 °F
-Brasilia,Mon 9:02 am,Sunny. Mild.,73 °F
-Kuwait City,Mon 3:02 pm,Haze. Extremely hot.,110 °F
-Shanghai,Mon 8:02 pm,Passing clouds. Warm.,86 °F
-Brisbane,Mon 10:02 pm,Cool.,63 °F
-Kyiv,Mon 3:02 pm,Scattered clouds. Warm.,82 °F
-Singapore,Mon 8:02 pm,Partly sunny. Warm.,86 °F
-Brussels,Mon 2:02 pm,Passing clouds. Mild.,63 °F
-La Paz,Mon 8:02 am,Clear. Chilly.,39 °F
-Sofia,Mon 3:02 pm,Passing clouds. Warm.,79 °F
-Bucharest,Mon 3:02 pm,Passing clouds. Pleasantly warm.,86 °F
-Lagos,Mon 1:02 pm,Partly sunny. Warm.,86 °F
-St. John's,Mon 9:32 am,Sprinkles. Cloudy. Mild.,63 °F
-Budapest,Mon 2:02 pm,Passing clouds. Hot.,91 °F
-Lahore,Mon 5:02 pm,Scattered clouds. Extremely hot.,99 °F
-Stockholm,Mon 2:02 pm,Broken clouds. Mild.,66 °F
-Buenos Aires,Mon 9:02 am,Partly sunny. Cool.,57 °F
-Las Vegas,Mon 5:02 am,Passing clouds. Pleasantly warm.,86 °F
-Suva,Tue 12:02 am,Overcast. Mild.,70 °F
-Cairo,Mon 3:02 pm,Sunny. Hot.,91 °F
-Lima,Mon 7:02 am,Overcast. Mild.,71 °F
-Sydney,Mon 10:02 pm,Clear. Cool.,61 °F
-Calgary,Mon 6:02 am,Passing clouds. Cool.,55 °F
-Lisbon,Mon 1:02 pm,Passing clouds. Mild.,75 °F
-Taipei,Mon 8:02 pm,Partly cloudy. Warm.,84 °F
-Canberra,Mon 10:02 pm,Clear. Quite cool.,45 °F
-London,Mon 1:02 pm,Partly sunny. Mild.,68 °F
-Tallinn,Mon 3:02 pm,Rain showers. Broken clouds. Mild.,64 °F
-Cape Town,Mon 2:02 pm,Passing clouds. Mild.,63 °F
-Los Angeles,Mon 5:02 am,Clear. Mild.,71 °F
-Tashkent,Mon 5:03 pm,Sunny. Hot.,88 °F
-Caracas,Mon 8:03 am,Passing clouds. Warm.,79 °F
-Madrid,Mon 2:03 pm,Sunny. Pleasantly warm.,84 °F
-Tegucigalpa,Mon 6:03 am,Passing clouds. Mild.,72 °F
-Casablanca,Mon 1:03 pm,Passing clouds. Warm.,79 °F
-Managua,Mon 6:03 am,Passing clouds. Warm.,81 °F
-Tehran,Mon 3:33 pm,Passing clouds. Extremely hot.,99 °F
-Chicago,Mon 7:03 am,Passing clouds. Mild.,76 °F
-Manila,Mon 8:03 pm,Overcast. Warm.,86 °F
-Tokyo,Mon 9:03 pm,Overcast. Warm.,78 °F
-Copenhagen,Mon 2:03 pm,Broken clouds. Mild.,64 °F
-Melbourne,Mon 10:03 pm,Clear. Cool.,50 °F
-Toronto,Mon 8:03 am,Light rain. Fog. Mild.,66 °F
-Dallas,Mon 7:03 am,Passing clouds. Warm.,85 °F
-Mexico City,Mon 6:03 am,Passing clouds. Cool.,61 °F
-Vancouver,Mon 5:03 am,Clear. Cool.,55 °F
-Dar es Salaam,Mon 3:03 pm,Partly sunny. Warm.,88 °F
-Miami,Mon 8:03 am,Partly cloudy. Warm.,80 °F
-Vienna,Mon 2:03 pm,Sunny. Pleasantly warm.,82 °F
-Darwin,Mon 9:33 pm,Clear. Warm.,77 °F
-Minneapolis,Mon 7:03 am,Passing clouds. Mild.,72 °F
-Warsaw,Mon 2:03 pm,Passing clouds. Warm.,79 °F
-Denver,Mon 6:03 am,Passing clouds. Cool.,61 °F
-Minsk,Mon 3:03 pm,Sunny. Warm.,79 °F
-Washington DC,Mon 8:03 am,Broken clouds. Mild.,73 °F
-Detroit,Mon 8:03 am,Overcast. Mild.,72 °F
-Montevideo,Mon 9:03 am,Fog. Cool.,52 °F
-Winnipeg,Mon 7:03 am,Mild.,65 °F
-Dhaka,Mon 6:03 pm,Low clouds. Hot.,92 °F
-Montréal,Mon 8:03 am,Passing clouds. Cool.,55 °F
-Yangon,Mon 6:33 pm,Rain. Mostly cloudy. Warm.,77 °F
-Doha,Mon 3:03 pm,Clear. Extremely hot.,108 °F
-Moscow,Mon 3:03 pm,Overcast. Mild.,64 °F
-Zagreb,Mon 2:03 pm,Sunny. Hot.,90 °F
-Dubai,Mon 4:03 pm,Clear. Extremely hot.,104 °F
-Mumbai,Mon 5:33 pm,Scattered clouds. Hot.,89 °F
-Zürich,Mon 2:03 pm,Passing clouds. Mild.,73 °F
-Dublin,Mon 1:03 pm,Broken clouds. Cool.,61 °F
-Nairobi,Mon 3:03 pm,Partly sunny. Mild.,68 °F
+Name,Day,Time,Weather Conditions,Temperature Category,Temperature,Temperature Scale,Rain
+Abidjan,Sun,19:10:00,Partly sunny,Warm,79,Fahrenheit,No Rain
+Lima,Sun,14:10:00,Overcast,Mild,76,Fahrenheit,No Rain
+Abu Dhabi,Sun,23:10:00,Passing clouds,Extremely hot,99,Fahrenheit,No Rain
+Lisbon,Sun,20:10:00,Passing clouds,Warm,81,Fahrenheit,No Rain
+Accra,Sun,19:10:00,Passing clouds,Warm,79,Fahrenheit,No Rain
+Ljubljana,Sun,21:10:00,Clear,Mild,68,Fahrenheit,No Rain
+Addis Ababa,Sun,22:10:00,Rain. Overcast,Cool,59,Fahrenheit,Rain
+Lomé,Sun,19:10:00,Passing clouds,Warm,79,Fahrenheit,No Rain
+Adelaide,Mon,04:40:00,No Weather Condition Given,Quite cool,51,Fahrenheit,Unknown
+London,Sun,20:10:00,Clear,Mild,70,Fahrenheit,No Rain
+Alert,Sun,15:10:00,Broken clouds,Cold,19,Fahrenheit,No Rain
+Longyearbyen,Sun,21:10:00,Scattered clouds,Quite cool,43,Fahrenheit,No Rain
+Algiers,Sun,20:10:00,Passing clouds,Warm,84,Fahrenheit,No Rain
+Los Angeles,Sun,12:10:00,Light rain. Cloudy,Mild,70,Fahrenheit,Rain
+Alice Springs,Mon,04:40:00,Clear,Cool,59,Fahrenheit,No Rain
+Luanda,Sun,20:10:00,Clear,Mild,72,Fahrenheit,No Rain
+Almaty,Mon,00:10:00,Clear,Refreshingly cool,59,Fahrenheit,No Rain
+Luxembourg,Sun,21:10:00,Clear,Mild,70,Fahrenheit,No Rain
+Alofi,Sun,08:10:00,No Weather Condition Given,Mild,72,Fahrenheit,Unknown
+Madrid,Sun,21:10:00,Sunny,Hot,90,Fahrenheit,No Rain
+Amman,Sun,22:10:00,Clear,Warm,77,Fahrenheit,No Rain
+Magadan,Mon,06:10:00,Sprinkles. Low clouds,Cool,48,Fahrenheit,Rain
+Amsterdam,Sun,21:10:00,Clear,Mild,64,Fahrenheit,No Rain
+Majuro,Mon,07:10:00,Overcast,Warm,84,Fahrenheit,No Rain
+Anadyr,Mon,07:10:00,Overcast,Cool,46,Fahrenheit,No Rain
+Makassar,Mon,03:10:00,Passing clouds,Mild,73,Fahrenheit,No Rain
+Anchorage,Sun,11:10:00,Overcast,Cool,52,Fahrenheit,No Rain
+Malabo,Sun,20:10:00,Passing clouds,Warm,79,Fahrenheit,No Rain
+Ankara,Sun,22:10:00,Clear,Mild,73,Fahrenheit,No Rain
+Male,Mon,00:10:00,Passing clouds,Warm,86,Fahrenheit,No Rain
+Antananarivo,Sun,22:10:00,Passing clouds,Cool,61,Fahrenheit,No Rain
+Managua,Sun,13:10:00,Scattered clouds,Hot,91,Fahrenheit,No Rain
+Apia,Mon,08:10:00,Scattered clouds,Mild,72,Fahrenheit,No Rain
+Manama,Sun,22:10:00,Clear,Extremely hot,95,Fahrenheit,No Rain
+Ashgabat,Mon,00:10:00,Clear,Pleasantly warm,77,Fahrenheit,No Rain
+Manaus,Sun,15:10:00,Passing clouds,Extremely hot,97,Fahrenheit,No Rain
+Astana,Mon,00:10:00,Fog,Cool,57,Fahrenheit,No Rain
+Manila,Mon,03:10:00,Overcast,Warm,78,Fahrenheit,No Rain
+Asuncion,Sun,16:10:00,Sunny,Mild,66,Fahrenheit,No Rain
+Manokwari,Mon,04:10:00,Passing clouds,Warm,79,Fahrenheit,No Rain
+Athens,Sun,22:10:00,No Weather Condition Given,Warm,87,Fahrenheit,Unknown
+Marion Island (Prince Edward Islands),Sun,22:10:00,Passing clouds,Chilly,36,Fahrenheit,No Rain
+Atlanta,Sun,15:10:00,Sunny,Hot,93,Fahrenheit,No Rain
+Mary's Harbour,Sun,16:40:00,Sunny,Cool,52,Fahrenheit,No Rain
+Auckland,Mon,07:10:00,Mostly cloudy,Cool,59,Fahrenheit,No Rain
+Maseru,Sun,21:10:00,Overcast,Mild,64,Fahrenheit,No Rain
+Baghdad,Sun,22:10:00,Sunny,Extremely hot,108,Fahrenheit,No Rain
+Melbourne,Mon,05:10:00,Partly cloudy,Cool,52,Fahrenheit,No Rain
+Baker Lake,Sun,14:10:00,Partly sunny,Quite cool,45,Fahrenheit,No Rain
+Mexico City,Sun,13:10:00,Scattered clouds,Mild,70,Fahrenheit,No Rain
+Baku,Sun,23:10:00,Clear,Mild,75,Fahrenheit,No Rain
+Miami,Sun,15:10:00,Thunderstorms. Broken clouds,Warm,86,Fahrenheit,Rain
+Bamako,Sun,19:10:00,Sunny,Warm,84,Fahrenheit,No Rain
+Midway,Sun,08:10:00,Passing clouds,Warm,78,Fahrenheit,No Rain
+Bandar Seri Begawan,Mon,03:10:00,Passing clouds,Warm,79,Fahrenheit,No Rain
+Minneapolis,Sun,14:10:00,Overcast,Warm,79,Fahrenheit,No Rain
+Bangkok,Mon,02:10:00,Light rain. Passing clouds,Warm,81,Fahrenheit,Rain
+Minsk,Sun,22:10:00,Clear,Cool,54,Fahrenheit,No Rain
+Bangui,Sun,20:10:00,Passing clouds,Warm,82,Fahrenheit,No Rain
+Monaco,Sun,21:10:00,Clear,Warm,81,Fahrenheit,No Rain
+Banjul,Sun,19:10:00,Partly sunny,Warm,88,Fahrenheit,No Rain
+Monrovia,Sun,19:10:00,Drizzle. Partly sunny,Warm,77,Fahrenheit,No Rain
+Barcelona,Sun,21:10:00,Passing clouds,Warm,82,Fahrenheit,No Rain
+Montevideo,Sun,16:10:00,Partly sunny,Quite cool,45,Fahrenheit,No Rain
+Basse-Terre,Sun,15:10:00,Passing clouds,Hot,91,Fahrenheit,No Rain
+Montréal,Sun,15:10:00,Broken clouds,Mild,70,Fahrenheit,No Rain
+Beijing,Mon,03:10:00,Clear,Mild,73,Fahrenheit,No Rain
+Moroni,Sun,22:10:00,Passing clouds,Mild,73,Fahrenheit,No Rain
+Beirut,Sun,22:10:00,Passing clouds,Warm,81,Fahrenheit,No Rain
+Moscow,Sun,22:10:00,Passing clouds,Cool,54,Fahrenheit,No Rain
+Belém,Sun,16:10:00,Scattered clouds,Warm,86,Fahrenheit,No Rain
+Mumbai,Mon,00:40:00,Passing clouds,Warm,84,Fahrenheit,No Rain
+Belgrade,Sun,21:10:00,Clear,Mild,72,Fahrenheit,No Rain
+Muscat,Sun,23:10:00,No Weather Condition Given,Warm,87,Fahrenheit,Unknown
+Belmopan,Sun,13:10:00,Partly sunny,Hot,89,Fahrenheit,No Rain
+N'Djamena,Sun,20:10:00,Clear,Warm,84,Fahrenheit,No Rain
+Belushya Guba,Sun,22:10:00,Overcast,Cool,47,Fahrenheit,No Rain
+Nairobi,Sun,22:10:00,Passing clouds,Mild,68,Fahrenheit,No Rain
+Bengaluru,Mon,00:40:00,Passing clouds,Mild,75,Fahrenheit,No Rain
+Nassau,Sun,15:10:00,Broken clouds,Hot,90,Fahrenheit,No Rain
+Berlin,Sun,21:10:00,Clear,Cool,57,Fahrenheit,No Rain
+New Delhi,Mon,00:40:00,Fog,Warm,78,Fahrenheit,No Rain
+Bern,Sun,21:10:00,Clear,Mild,68,Fahrenheit,No Rain
+New Orleans,Sun,14:10:00,Sunny,Warm,85,Fahrenheit,No Rain
+Bishkek,Mon,01:10:00,Clear,Mild,67,Fahrenheit,No Rain
+New York,Sun,15:10:00,Broken clouds,Mild,74,Fahrenheit,No Rain
+Bissau,Sun,19:10:00,Passing clouds,Warm,88,Fahrenheit,No Rain
+Ngerulmud,Mon,04:10:00,Passing clouds,Mild,77,Fahrenheit,No Rain
+Bogota,Sun,14:10:00,Broken clouds,Mild,66,Fahrenheit,No Rain
+Niamey,Sun,20:10:00,Clear,Warm,86,Fahrenheit,No Rain
+Boston,Sun,15:10:00,Partly sunny,Mild,63,Fahrenheit,No Rain
+Nicosia,Sun,22:10:00,Clear,Warm,82,Fahrenheit,No Rain
+Brasilia,Sun,16:10:00,Thundershowers. Broken clouds,Mild,72,Fahrenheit,Rain
+Norilsk,Mon,02:10:00,Passing clouds,Cool,56,Fahrenheit,No Rain
+Bratislava,Sun,21:10:00,Clear,Mild,64,Fahrenheit,No Rain
+Novosibirsk,Mon,02:10:00,Clear,Cool,57,Fahrenheit,No Rain
+Brazzaville,Sun,20:10:00,Clear,Warm,88,Fahrenheit,No Rain
+Nuku'alofa,Mon,08:10:00,Scattered clouds,Mild,68,Fahrenheit,No Rain
+Bridgetown,Sun,15:10:00,Scattered clouds,Warm,88,Fahrenheit,No Rain
+Nusantara,Mon,03:10:00,Passing clouds,Warm,82,Fahrenheit,No Rain
+Brisbane,Mon,05:10:00,No Weather Condition Given,Cool,61,Fahrenheit,Unknown
+Nuuk,Sun,18:10:00,Passing clouds,Cool,52,Fahrenheit,No Rain
+Brussels,Sun,21:10:00,Light rain. Clear,Mild,70,Fahrenheit,Rain
+Oklahoma City,Sun,14:10:00,Scattered clouds,Extremely hot,97,Fahrenheit,No Rain
+Bucharest,Sun,22:10:00,Clear,Mild,73,Fahrenheit,No Rain
+Omsk,Mon,01:10:00,Fog,Cool,51,Fahrenheit,No Rain
+Budapest,Sun,21:10:00,Clear,Mild,66,Fahrenheit,No Rain
+Oral,Mon,00:10:00,Passing clouds,Mild,68,Fahrenheit,No Rain
+Buenos Aires,Sun,16:10:00,Sunny,Cool,48,Fahrenheit,No Rain
+Oslo,Sun,21:10:00,Clear,Cool,57,Fahrenheit,No Rain
+Bujumbura,Sun,21:10:00,Passing clouds,Warm,81,Fahrenheit,No Rain
+Ottawa,Sun,15:10:00,Partly sunny,Mild,72,Fahrenheit,No Rain
+Cairns,Mon,05:10:00,Clear,Mild,64,Fahrenheit,No Rain
+Palikir,Mon,06:10:00,Passing clouds,Warm,77,Fahrenheit,No Rain
+Cairo,Sun,22:10:00,Clear,Warm,84,Fahrenheit,No Rain
+Panama,Sun,14:10:00,Scattered clouds,Warm,88,Fahrenheit,No Rain
+Calgary,Sun,13:10:00,Fog,Cool,52,Fahrenheit,No Rain
+Papeete,Sun,09:10:00,Rain. Scattered clouds,Mild,73,Fahrenheit,Rain
+Canberra,Mon,05:10:00,Low clouds,Cool,46,Fahrenheit,No Rain
+Paramaribo,Sun,16:10:00,Overcast,Hot,88,Fahrenheit,No Rain
+Cancún,Sun,14:10:00,Broken clouds,Extremely hot,93,Fahrenheit,No Rain
+Paris,Sun,21:10:00,Clear,Pleasantly warm,77,Fahrenheit,No Rain
+Cape Town,Sun,21:10:00,Clear,Mild,64,Fahrenheit,No Rain
+Perth,Mon,03:10:00,Overcast,Cool,55,Fahrenheit,No Rain
+Caracas,Sun,15:10:00,Passing clouds,Hot,90,Fahrenheit,No Rain
+Petropavlovsk-Kamchatsky,Mon,07:10:00,Passing clouds,Chilly,37,Fahrenheit,No Rain
+Cardiff,Sun,20:10:00,Clear,Mild,68,Fahrenheit,No Rain
+Pevek,Mon,07:10:00,Passing clouds,Chilly,31,Fahrenheit,No Rain
+Casablanca,Sun,20:10:00,Passing clouds,Warm,79,Fahrenheit,No Rain
+Philadelphia,Sun,15:10:00,Scattered clouds,Warm,80,Fahrenheit,No Rain
+Cayenne,Sun,16:10:00,No Weather Condition Given,Hot,90,Fahrenheit,Unknown
+Phoenix,Sun,12:10:00,Broken clouds,Extremely hot,98,Fahrenheit,No Rain
+Chennai,Mon,00:40:00,Thunderstorms. Fog,Warm,82,Fahrenheit,Rain
+Pituffik,Sun,16:10:00,Light rain. Overcast,Chilly,37,Fahrenheit,Rain
+Chibougamau,Sun,15:10:00,Partly sunny,Mild,70,Fahrenheit,No Rain
+Podgorica,Sun,21:10:00,Clear,Pleasantly warm,88,Fahrenheit,No Rain
+Chicago,Sun,14:10:00,Scattered clouds,Warm,78,Fahrenheit,No Rain
+Pond Inlet,Sun,15:10:00,Light rain. Overcast,Chilly,39,Fahrenheit,Rain
+Chita,Mon,04:10:00,Passing clouds,Quite cool,43,Fahrenheit,No Rain
+Ponta Delgada,Sun,19:10:00,Partly sunny,Warm,77,Fahrenheit,No Rain
+Chișinău,Sun,22:10:00,Clear,Mild,63,Fahrenheit,No Rain
+Pontianak,Mon,02:10:00,Overcast,Warm,77,Fahrenheit,No Rain
+Chongqing,Mon,03:10:00,Clear,Warm,84,Fahrenheit,No Rain
+Port-au-Prince,Sun,15:10:00,Scattered clouds,Extremely hot,99,Fahrenheit,No Rain
+Conakry,Sun,19:10:00,Thunderstorms. Mostly cloudy,Warm,79,Fahrenheit,Rain
+Port-aux-Francais,Mon,00:10:00,No Weather Condition Given,Quite cool,41,Fahrenheit,Unknown
+Copenhagen,Sun,21:10:00,Overcast,Cool,61,Fahrenheit,No Rain
+Port Louis,Sun,23:10:00,Overcast,Mild,69,Fahrenheit,No Rain
+Coral Harbour,Sun,14:10:00,Partly sunny,Chilly,39,Fahrenheit,No Rain
+Port of Spain,Sun,15:10:00,Partly sunny,Hot,90,Fahrenheit,No Rain
+Córdoba,Sun,16:10:00,Overcast,Cool,48,Fahrenheit,No Rain
+Port Vila,Mon,06:10:00,Partly sunny,Cool,61,Fahrenheit,No Rain
+Dakar,Sun,19:10:00,Scattered clouds,Warm,88,Fahrenheit,No Rain
+Porto Novo,Sun,20:10:00,Passing clouds,Warm,79,Fahrenheit,No Rain
+Dallas,Sun,14:10:00,Scattered clouds,Extremely hot,95,Fahrenheit,No Rain
+Prague,Sun,21:10:00,Clear,Refreshingly cool,57,Fahrenheit,No Rain
+Damascus,Sun,22:10:00,Clear,Pleasantly warm,79,Fahrenheit,No Rain
+Pretoria,Sun,21:10:00,No Weather Condition Given,Cool,55,Fahrenheit,Unknown
+Danmarkshavn,Sun,19:10:00,Overcast,Chilly,36,Fahrenheit,No Rain
+Punta Arenas,Sun,16:10:00,Scattered clouds,Cool,47,Fahrenheit,No Rain
+Dar es Salaam,Sun,22:10:00,Passing clouds,Warm,79,Fahrenheit,No Rain
+Pyongyang,Mon,04:10:00,Clear,Mild,66,Fahrenheit,No Rain
+Darwin,Mon,04:40:00,Passing clouds,Warm,79,Fahrenheit,No Rain
+Quito,Sun,14:10:00,Partly sunny,Refreshingly cool,59,Fahrenheit,No Rain
+Denpasar,Mon,03:10:00,Passing clouds,Warm,77,Fahrenheit,No Rain
+Rabat,Sun,20:10:00,Clear,Warm,81,Fahrenheit,No Rain
+Denver,Sun,13:10:00,Passing clouds,Pleasantly warm,80,Fahrenheit,No Rain
+Rarotonga,Sun,09:10:00,Passing clouds,Mild,73,Fahrenheit,No Rain
+Detroit,Sun,15:10:00,Partly sunny,Mild,76,Fahrenheit,No Rain
+Regina,Sun,13:10:00,Partly sunny,Mild,66,Fahrenheit,No Rain
+Dhaka,Mon,01:10:00,Passing clouds,Warm,83,Fahrenheit,No Rain
+Resolute Bay,Sun,14:10:00,Low clouds,Chilly,32,Fahrenheit,No Rain
+Dnipro,Sun,22:10:00,Passing clouds,Cool,57,Fahrenheit,No Rain
+Reykjavik,Sun,19:10:00,Scattered clouds,Refreshingly cool,59,Fahrenheit,No Rain
+Dodoma,Sun,22:10:00,Clear,Mild,72,Fahrenheit,No Rain
+Riga,Sun,22:10:00,Passing clouds,Cool,57,Fahrenheit,No Rain
+Doha,Sun,22:10:00,Clear,Extremely hot,95,Fahrenheit,No Rain
+Rio Branco,Sun,14:10:00,Scattered showers. Broken clouds,Warm,79,Fahrenheit,Rain
+Douglas,Sun,20:10:00,Partly sunny,Mild,63,Fahrenheit,No Rain
+Rio de Janeiro,Sun,16:10:00,Mostly cloudy,Mild,63,Fahrenheit,No Rain
+Dubai,Sun,23:10:00,Clear,Extremely hot,99,Fahrenheit,No Rain
+Riyadh,Sun,22:10:00,Clear,Extremely hot,95,Fahrenheit,No Rain
+Dublin,Sun,20:10:00,Partly sunny,Mild,68,Fahrenheit,No Rain
+Rome,Sun,21:10:00,Passing clouds,Warm,84,Fahrenheit,No Rain
+Dushanbe,Mon,00:10:00,Clear,Mild,73,Fahrenheit,No Rain
+Rovaniemi,Sun,22:10:00,Clear,Quite cool,41,Fahrenheit,No Rain
+Easter Island,Sun,14:10:00,Broken clouds,Mild,70,Fahrenheit,No Rain
+Saint-Denis,Sun,23:10:00,Passing clouds,Mild,72,Fahrenheit,No Rain
+Edinburgh,Sun,20:10:00,Partly sunny,Mild,66,Fahrenheit,No Rain
+Salt Lake City,Sun,13:10:00,Broken clouds,Pleasantly warm,85,Fahrenheit,No Rain
+Edmonton,Sun,13:10:00,Overcast,Cool,57,Fahrenheit,No Rain
+Samara,Sun,23:10:00,Passing clouds,Cool,61,Fahrenheit,No Rain
+El Aaiún,Sun,20:10:00,Sandstorm,Warm,81,Fahrenheit,No Rain
+San Francisco,Sun,12:10:00,Passing clouds,Mild,68,Fahrenheit,No Rain
+Eucla,Mon,03:55:00,No Weather Condition Given,Cool,57,Fahrenheit,Unknown
+San Jose,Sun,13:10:00,Light rain. Partly sunny,Mild,75,Fahrenheit,Rain
+Eureka,Sun,14:10:00,Partly sunny,Chilly,30,Fahrenheit,No Rain
+San Juan,Sun,15:10:00,Broken clouds,Hot,88,Fahrenheit,No Rain
+Fairbanks,Sun,11:10:00,Partly sunny,Cool,57,Fahrenheit,No Rain
+San Salvador,Sun,13:10:00,Scattered clouds,Warm,86,Fahrenheit,No Rain
+Fortaleza,Sun,16:10:00,Passing clouds,Warm,84,Fahrenheit,No Rain
+Santiago,Sun,16:10:00,Sunny,Mild,70,Fahrenheit,No Rain
+Frankfurt,Sun,21:10:00,Clear,Mild,73,Fahrenheit,No Rain
+Santo Domingo,Sun,15:10:00,Overcast,Hot,89,Fahrenheit,No Rain
+Funafuti,Mon,07:10:00,Passing clouds,Warm,82,Fahrenheit,No Rain
+São Paulo,Sun,16:10:00,Light rain. Mostly cloudy,Cool,54,Fahrenheit,Rain
+Gaborone,Sun,21:10:00,Passing clouds,Cool,61,Fahrenheit,No Rain
+São Tomé,Sun,19:10:00,Passing clouds,Warm,82,Fahrenheit,No Rain
+Georgetown,Sun,15:10:00,Scattered clouds,Hot,90,Fahrenheit,No Rain
+Sarajevo,Sun,21:10:00,Passing clouds,Pleasantly warm,77,Fahrenheit,No Rain
+Gibraltar,Sun,21:10:00,Sunny,Mild,75,Fahrenheit,No Rain
+Seattle,Sun,12:10:00,Passing clouds,Mild,65,Fahrenheit,No Rain
+Gitega,Sun,21:10:00,Passing clouds,Warm,81,Fahrenheit,No Rain
+Seoul,Mon,04:10:00,Clear,Mild,66,Fahrenheit,No Rain
+Guatemala City,Sun,13:10:00,Light rain. Scattered clouds,Warm,79,Fahrenheit,Rain
+Shanghai,Mon,03:10:00,Passing clouds,Warm,77,Fahrenheit,No Rain
+Hagåtña,Mon,05:10:00,Passing clouds,Warm,77,Fahrenheit,No Rain
+Singapore,Mon,03:10:00,Passing clouds,Warm,82,Fahrenheit,No Rain
+Halifax,Sun,16:10:00,Mostly cloudy,Cool,55,Fahrenheit,No Rain
+Skopje,Sun,21:10:00,Passing clouds,Pleasantly warm,81,Fahrenheit,No Rain
+Hamilton,Sun,16:10:00,Light rain. Mostly cloudy,Warm,81,Fahrenheit,Rain
+Sofia,Sun,22:10:00,Clear,Mild,76,Fahrenheit,No Rain
+Hanoi,Mon,02:10:00,Passing clouds,Warm,81,Fahrenheit,No Rain
+Sri Jayawardenepura Kotte,Mon,00:40:00,Passing clouds,Warm,84,Fahrenheit,No Rain
+Happy Valley-Goose Bay,Sun,16:10:00,Scattered clouds,Mild,66,Fahrenheit,No Rain
+St. John's,Sun,16:40:00,Light rain. Fog,Cool,57,Fahrenheit,Rain
+Harare,Sun,21:10:00,Partly sunny,Mild,71,Fahrenheit,No Rain
+Stanley,Sun,16:10:00,Broken clouds,Cool,46,Fahrenheit,No Rain
+Havana,Sun,15:10:00,No Weather Condition Given,Warm,79,Fahrenheit,Unknown
+Stockholm,Sun,21:10:00,Clear,Cool,59,Fahrenheit,No Rain
+Helsinki,Sun,22:10:00,Passing clouds,Cool,46,Fahrenheit,No Rain
+Suva,Mon,07:10:00,Overcast,Mild,71,Fahrenheit,No Rain
+Hermosillo,Sun,12:10:00,Scattered clouds,Extremely hot,93,Fahrenheit,No Rain
+Sydney,Mon,05:10:00,Passing clouds,Cool,57,Fahrenheit,No Rain
+Hobart,Mon,05:10:00,Passing clouds,Cool,52,Fahrenheit,No Rain
+Taipei,Mon,03:10:00,Passing clouds,Mild,75,Fahrenheit,No Rain
+Hong Kong,Mon,03:10:00,Passing clouds,Warm,82,Fahrenheit,No Rain
+Tallinn,Sun,22:10:00,Clear,Refreshingly cool,59,Fahrenheit,No Rain
+Honiara,Mon,06:10:00,Overcast,Warm,77,Fahrenheit,No Rain
+Tarawa,Mon,07:10:00,Light rain. Overcast,Warm,79,Fahrenheit,Rain
+Honolulu,Sun,09:10:00,Broken clouds,Warm,81,Fahrenheit,No Rain
+Tashkent,Mon,00:10:00,Clear,Pleasantly warm,79,Fahrenheit,No Rain
+Houston,Sun,14:10:00,Cloudy,Warm,86,Fahrenheit,No Rain
+Tbilisi,Sun,23:10:00,Passing clouds,Mild,73,Fahrenheit,No Rain
+Hovd,Mon,02:10:00,Clear,Cool,45,Fahrenheit,No Rain
+Tegucigalpa,Sun,13:10:00,Passing clouds,Hot,90,Fahrenheit,No Rain
+Indianapolis,Sun,15:10:00,Passing clouds,Warm,81,Fahrenheit,No Rain
+Tehran,Sun,22:40:00,Clear,Pleasantly warm,84,Fahrenheit,No Rain
+Inuvik,Sun,13:10:00,Overcast,Quite cool,45,Fahrenheit,No Rain
+Tiksi,Mon,04:10:00,Overcast,Chilly,35,Fahrenheit,No Rain
+Irkutsk,Mon,03:10:00,Clear,Quite cool,42,Fahrenheit,No Rain
+Tirana,Sun,21:10:00,Clear,Warm,79,Fahrenheit,No Rain
+Islamabad,Mon,00:10:00,Haze,Warm,80,Fahrenheit,No Rain
+Tokyo,Mon,04:10:00,Rain showers. Low clouds,Mild,72,Fahrenheit,Rain
+Istanbul,Sun,22:10:00,Clear,Mild,75,Fahrenheit,No Rain
+Toronto,Sun,15:10:00,Partly sunny,Mild,68,Fahrenheit,No Rain
+Ittoqqortoormiit,Sun,18:10:00,Sunny,Cool,49,Fahrenheit,No Rain
+Tórshavn,Sun,20:10:00,Drizzle. Fog,Cool,55,Fahrenheit,No Rain
+Izhevsk,Sun,23:10:00,Overcast,Cool,57,Fahrenheit,No Rain
+Tromsø,Sun,21:10:00,Clear,Quite cool,43,Fahrenheit,No Rain
+Jakarta,Mon,02:10:00,Passing clouds,Warm,79,Fahrenheit,No Rain
+Tunis,Sun,20:10:00,Passing clouds,Warm,82,Fahrenheit,No Rain
+Jerusalem,Sun,22:10:00,No Weather Condition Given,Mild,72,Fahrenheit,Unknown
+Ulaanbaatar,Mon,03:10:00,Clear,Chilly,30,Fahrenheit,No Rain
+Johannesburg,Sun,21:10:00,Fog,Cool,52,Fahrenheit,No Rain
+Unalaska,Sun,11:10:00,Broken clouds,Cool,52,Fahrenheit,No Rain
+Juneau,Sun,11:10:00,Mostly cloudy,Cool,57,Fahrenheit,No Rain
+Ürümqi,Mon,03:10:00,Clear,Mild,68,Fahrenheit,No Rain
+Kaliningrad,Sun,21:10:00,Passing clouds,Cool,57,Fahrenheit,No Rain
+Valletta,Sun,21:10:00,Passing clouds,Warm,82,Fahrenheit,No Rain
+Kampala,Sun,22:10:00,Clear,Mild,75,Fahrenheit,No Rain
+Vancouver,Sun,12:10:00,Passing clouds,Mild,64,Fahrenheit,No Rain
+Kangerlussuaq,Sun,18:10:00,Passing clouds,Refreshingly cool,55,Fahrenheit,No Rain
+Vatican City,Sun,21:10:00,Passing clouds,Warm,84,Fahrenheit,No Rain
+Kansas City,Sun,14:10:00,Sunny,Extremely hot,96,Fahrenheit,No Rain
+Verkhoyansk,Mon,05:10:00,Overcast,Chilly,37,Fahrenheit,No Rain
+Karachi,Mon,00:10:00,Partly cloudy,Warm,82,Fahrenheit,No Rain
+Victoria,Sun,23:10:00,Passing clouds,Warm,81,Fahrenheit,No Rain
+Kathmandu,Mon,00:55:00,Heavy rain. Partly cloudy,Mild,70,Fahrenheit,Rain
+Vienna,Sun,21:10:00,Clear,Mild,66,Fahrenheit,No Rain
+Kemi,Sun,22:10:00,Clear,Quite cool,43,Fahrenheit,No Rain
+Vientiane,Mon,02:10:00,Fog,Mild,75,Fahrenheit,No Rain
+Khatanga,Mon,02:10:00,Overcast,Cool,53,Fahrenheit,No Rain
+Vilnius,Sun,22:10:00,Passing clouds,Cool,55,Fahrenheit,No Rain
+Kigali,Sun,21:10:00,Passing clouds,Pleasantly warm,79,Fahrenheit,No Rain
+Vladivostok,Mon,05:10:00,Passing clouds,Mild,63,Fahrenheit,No Rain
+Kingston,Sun,14:10:00,No Weather Condition Given,Hot,91,Fahrenheit,Unknown
+Wake Island,Mon,07:10:00,Passing clouds,Warm,82,Fahrenheit,No Rain
+Kinshasa,Sun,20:10:00,Clear,Warm,88,Fahrenheit,No Rain
+Warsaw,Sun,21:10:00,Passing clouds,Cool,61,Fahrenheit,No Rain
+Kiritimati,Mon,09:10:00,Passing clouds,Warm,86,Fahrenheit,No Rain
+Washington DC,Sun,15:10:00,Scattered clouds,Warm,81,Fahrenheit,No Rain
+Kolkata,Mon,00:40:00,Passing clouds,Warm,84,Fahrenheit,No Rain
+Wellington,Mon,07:10:00,Rain. Overcast,Cool,46,Fahrenheit,Rain
+Komsomolsk-on-Amur,Mon,05:10:00,Passing clouds,Mild,66,Fahrenheit,No Rain
+Whitehorse,Sun,12:10:00,Scattered clouds,Cool,54,Fahrenheit,No Rain
+Krasnoyarsk,Mon,02:10:00,Clear,Cool,46,Fahrenheit,No Rain
+Windhoek,Sun,21:10:00,No Weather Condition Given,Mild,63,Fahrenheit,Unknown
+Kuala Lumpur,Mon,03:10:00,Haze,Warm,81,Fahrenheit,No Rain
+Winnipeg,Sun,14:10:00,No Weather Condition Given,Warm,80,Fahrenheit,Unknown
+Kuujjuaq,Sun,15:10:00,Broken clouds,Mild,73,Fahrenheit,No Rain
+Yakutsk,Mon,04:10:00,Clear,Quite cool,45,Fahrenheit,No Rain
+Kuwait City,Sun,22:10:00,Clear,Extremely hot,96,Fahrenheit,No Rain
+Yangon,Mon,01:40:00,Passing clouds,Warm,79,Fahrenheit,No Rain
+Kyiv,Sun,22:10:00,Passing clouds,Cool,57,Fahrenheit,No Rain
+Yaoundé,Sun,20:10:00,Thunderstorms. Passing clouds,Mild,73,Fahrenheit,Rain
+La Paz (Bolivia),Sun,15:10:00,Partly sunny,Cool,55,Fahrenheit,No Rain
+Yekaterinburg,Mon,00:10:00,Clear,Mild,64,Fahrenheit,No Rain
+Lagos,Sun,20:10:00,Passing clouds,Warm,79,Fahrenheit,No Rain
+Yerevan,Sun,23:10:00,Overcast,Mild,68,Fahrenheit,No Rain
+Lahore,Mon,00:10:00,Clear,Warm,82,Fahrenheit,No Rain
+Yuzhno-Sakhalinsk,Mon,06:10:00,Clear,Cool,55,Fahrenheit,No Rain
+Las Vegas,Sun,12:10:00,Light rain. Partly sunny,Warm,78,Fahrenheit,Rain
+Zagreb,Sun,21:10:00,Clear,Mild,75,Fahrenheit,No Rain
+Libreville,Sun,20:10:00,Partly cloudy,Warm,79,Fahrenheit,No Rain
+Zürich,Sun,21:10:00,Passing clouds,Mild,72,Fahrenheit,No Rain
+Lilongwe,Sun,21:10:00,Clear,Mild,72,Fahrenheit,No Rain
