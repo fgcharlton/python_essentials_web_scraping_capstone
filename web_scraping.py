@@ -67,6 +67,14 @@ def clean_city_data(df):
 
     df["Time"] = pd.to_datetime(df["Time"], format = "%I:%M %p").dt.time # Want to convert time to a time field
 
+    # City Day
+    day_map = {
+        "mon": "Monday", "tue": "Tuesday", "wed": "Wednesday",
+        "thu": "Thursday", "fri": "Friday", "sat": "Saturday", "sun": "Sunday"
+    }
+
+    df["Day"] = df["Day"].str.lower().map(day_map).fillna(df["Day"])
+
     # City Weather
     df[["Weather Conditions", "Temperature Category"]] = (df["City Weather"].str.rsplit(". ", n = 1, expand = True))
 
@@ -224,7 +232,7 @@ print("--------------Capital Cities Original DataFrame Data Types--------------"
 print(df_capital_cities.dtypes)
 
 # Based on Investigation
-# There are ~180 rows with four columns describing the name, time, weather, and temperature in capital cities.
+# There are four columns describing the name, time, weather, and temperature in capital cities.
 # There is no missing data.
 # There is no duplicate data. 
 # There is some text cleaning that needs to be done within each column. 
@@ -275,7 +283,7 @@ print("--------------Popular Cities Original DataFrame Data Types--------------"
 print(df_popular_cities.dtypes)
 
 # Based on Investigation
-# There are ~310 rows with four columns describing the name, time, weather, and temperature in the most popular cities.
+# There are four columns describing the name, time, weather, and temperature in the most popular cities.
 # There is no missing data.
 # There is no duplicate data. 
 # There is some text cleaning that needs to be done within each column. 
@@ -326,7 +334,7 @@ print("--------------Somewhat Popular Cities Original DataFrame Data Types------
 print(df_somewhat_popular_cities.dtypes)
 
 # Based on Investigation
-# There are ~420 rows with four columns describing the name, time, weather, and temperature in the most popular cities.
+# There are four columns describing the name, time, weather, and temperature in the most popular cities.
 # There is no missing data.
 # There is no duplicate data. 
 # There is some text cleaning that needs to be done within each column. 
@@ -373,7 +381,7 @@ cursor = conn.cursor()
 
 capital_query = """
 ALTER TABLE capital_cities
-ADD [capital_cities] TEXT DEFAULT 'Yes' NOT NULL;"""
+ADD [city_category] TEXT DEFAULT 'Capital Cities' NOT NULL;"""
 
 cursor.execute(capital_query)
 rows = cursor.fetchall()
@@ -386,7 +394,7 @@ cursor = conn.cursor()
 
 most_popular_query = """
 ALTER TABLE most_popular_cities
-ADD [most_popular_cities] TEXT DEFAULT 'Yes' NOT NULL;"""
+ADD [city_category] TEXT DEFAULT 'Most Popular Cities' NOT NULL;"""
 
 cursor.execute(most_popular_query)
 rows = cursor.fetchall()
@@ -399,7 +407,7 @@ cursor = conn.cursor()
 
 somewhat_popular_query = """
 ALTER TABLE somewhat_popular_cities
-ADD [somewhat_popular_cities] TEXT DEFAULT 'Yes' NOT NULL;"""
+ADD [city_category] TEXT DEFAULT 'Somewhat Popular Cities' NOT NULL;"""
 
 cursor.execute(somewhat_popular_query)
 rows = cursor.fetchall()
@@ -412,7 +420,7 @@ cursor = conn.cursor()
 
 popular_query = """
 ALTER TABLE popular_cities
-ADD [popular_cities] TEXT DEFAULT 'Yes' NOT NULL;"""
+ADD [city_category] TEXT DEFAULT 'Popular Cities' NOT NULL;"""
 
 cursor.execute(popular_query)
 rows = cursor.fetchall()
@@ -440,8 +448,6 @@ INNER JOIN somewhat_popular_cities AS sp
 cursor.execute(multiple_lists_query)
 print("-------------------Number of Cities in All 4 Lists-------------------")
 print(cursor.fetchall())
-
-# ~ 80 are on all 4 lists
 
 # What are some of the cities that are on all 4 lists?
 conn = sqlite3.connect("weather_database.db")
