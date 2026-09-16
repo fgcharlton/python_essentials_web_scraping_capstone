@@ -147,7 +147,7 @@ if __name__ == "__main__":
 
     #Save to CSV
     df_most_popular_cities_clean.to_csv('most_popular_cities.csv', index = False)
-    df_most_popular_cities_clean.to_csv('capital_cities.csv', index = False)
+    df_capital_cities_clean.to_csv('capital_cities.csv', index = False)
     df_popular_cities_clean.to_csv('popular_cities.csv', index = False)
     df_somewhat_popular_cities_clean.to_csv('somewhat_popular_cities.csv', index = False)
 
